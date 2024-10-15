@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Club 90 | Rock Music From Gothenburg, Sweden</title>
+    <title>Club 90 | Official Website</title>
+
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
-<body>
-    <h1> Club 90 </h1>
-</body>
-</html>
